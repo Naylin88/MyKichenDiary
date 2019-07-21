@@ -1,0 +1,93 @@
+[
+    {
+     "id":1,
+     "title": "Grilled Salamon",
+     "receipt": "Salmon with Soy sauce, Brown sugar marinade, lemon and garlic", 
+     "imgLocation" : "https://hips.hearstapps.com/del.h-cdn.co/assets/18/11/2048x1024/landscape-1520957481-grilled-salmon-horizontal.jpg?resize=1200:*"
+    },
+    {
+        "id":2,
+        "title": "Mayonase Pasta",
+        "receipt": "Farfalle Pasta, Mayonase, Clove Oil, Cheese, Chicken",
+        "imgLocation" : "../img/img2.jpg"    
+    },
+    {
+        "id":3,
+        "title": "Bake Corn",
+        "receipt": "Corn, Salt, Ground Peanut, Mayonase, Pepper",
+        "imgLocation" : "../img/img3.jpg"    
+    },
+    {
+        "id":4,
+        "title": "Solamon Pepper",
+        "receipt": "Grilled Salamon & Pepper", 
+        "imgLocation" : "../img/img4.jpg" 
+       },
+       {
+           "id":5,
+           "title": "Egg Vege",
+           "receipt": "Egg, Seaweed, Onion, Tomato, Cucumber, Oil",
+           "imgLocation" : "../img/img5.jpg"    
+       },
+       {
+           "id":6,
+           "title": "Pumpkim Seafood Soup",
+           "receipt": "Pumpkim, Shrim, Garlic, Olive",
+           "imgLocation" : "../img/img6.jpg"    
+       },
+       {
+        "id":7,
+        "title": "Fried Spring Roll",
+        "receipt": "Wheat, Mixed Vegetalbes, Oil", 
+        "imgLocation" : "../img/img7.jpeg" 
+       },
+       {
+           "id":8,
+           "title": "Seafood Papaya Salad",
+           "receipt": "Shrim, Squad, Papaya, Chilli, Ground Peanut, Oil, Salt, Fish Sauce",
+           "imgLocation" : "../img/img8.jpg"    
+       },
+       {
+           "id":9,
+           "title": "Mixed Chicken Baby Corn ",
+           "receipt": "Baby Corn, Chicken, Sauce, Vege",
+           "imgLocation" : "../img/img9.jpg"    
+       },
+       {
+        "id":10,
+        "title": "Spicy Fried Squad",
+        "receipt": "Squad, Mushroom, Onion, Garlic, Olive, Chilli", 
+        "imgLocation" : "../img/img10.jpg" 
+       },
+       {
+           "id":11,
+           "title": "Fried Chicken Wings",
+           "receipt": "Chicken wings",
+           "imgLocation" : "../img/img11.jpg"    
+       },
+       {
+           "id":12,
+           "title": "Indian Style Macroni",
+           "receipt": "Pasta, Onion-Tomato Sauce, Pepper, Chilli",
+           "imgLocation" : "https://i.ytimg.com/vi/4q8GwxethQ0/maxresdefault.jpg"    
+       },
+       {
+        "id":13,
+        "title": "Tomyum Seadfood Soup",
+        "receipt": "Shrim, Lime, Tom Kha ", 
+        "imgLocation" : "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/best_and_worst_thai_dishes_slideshow/1800x1200_slideshow_best_and_worst_thai_dishes_for_your_health.jpg" 
+       },
+       {
+           "id":14,
+           "title": "Pad Thai",
+           "receipt": "rice noodles sauteed with spices, peanuts, egg, and bean sprouts",
+           "imgLocation" : "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/best_and_worst_thai_dishes_for_your_health_slideshow/1800ss_thinkstock_rf_pad_thai.jpg?resize=650px:*"    
+       },
+       {
+           "id":15,
+           "title": "Chicken Soup",
+           "receipt": "Chicken, Coconut Milk",
+           "imgLocation" : "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/10/30/0/FN_thai-restaurant-Som-tum-Der-larb-moo_s4x3.jpg.rend.hgtvcom.966.725.suffix/1477872052701.jpeg"    
+       }
+                
+]
